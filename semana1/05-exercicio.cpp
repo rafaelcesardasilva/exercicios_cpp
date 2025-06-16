@@ -1,5 +1,5 @@
 #include <iostream> // Biblioteca de entrada e saida padrão
-#include <string> // Biblioteca para usar string 
+#include <string> // Biblioteca para usar string Add commentMore actions
 #include <windows.h> // Biblioteca do Windows para executar a função Sleep
 using namespace std; // Usado para não ter que digitar std:: quando utilizar o cout e cin
 
@@ -43,3 +43,4 @@ int main(){
     }
     return 0;
 }
+
