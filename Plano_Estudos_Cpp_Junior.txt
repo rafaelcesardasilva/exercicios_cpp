@@ -1,0 +1,53 @@
+
+Plano de Estudos Semanal de C++ (Focado em Junior)
+
+Semana 1 - Fundamentos de C++, Ambiente e Git Basico
+- Instalacao do ambiente (IDE ou online)
+- Estrutura de um programa C++
+- Entrada e saida (cin / cout)
+- Variaveis e tipos de dados
+- Operadores basicos
+- Git basico: init, add, commit, push
+- Primeiro projeto: Hello World e criacao de personagem
+
+Semana 2 - Condicionais, Loops e Git Avancado
+- Condicoes: if, else, else if
+- Loops: for, while, do-while
+- Estrutura switch/case
+- Git: commits por funcionalidade, branches
+- Projeto: Calculadora simples e jogo de adivinhacao
+
+Semana 3 - Funcoes e Codigo Limpo
+- Criando funcoes com e sem retorno
+- Passagem de parametros
+- Refatoracao de codigo
+- Modularizacao (separacao em arquivos)
+- Git: commits de refactor
+- Projeto: Sistema de calculo de media com funcoes
+
+Semana 4 - Arrays, Strings e C++ Moderno
+- Arrays de numeros e strings
+- Manipulacao de std::string
+- Uso de auto e range-based for
+- Projeto: Cadastro de usuarios e verificador de palindromos
+
+Semana 5 - Estruturas de Dados Basicas
+- Pilha (Stack), Fila (Queue), Lista Simples
+- Projeto: Simulador de fila de atendimento e empilhamento de numeros
+
+Semana 6 - Introducao a Programacao Orientada a Objetos (POO)
+- Classes, objetos, atributos, metodos
+- Construtores e destruidores
+- Encapsulamento
+- Projeto: Classe Pessoa e Conta Bancaria
+
+Semana 7 - C++ Moderno e Projeto Pratico
+- Novidades do C++11/14/17
+- Uso de smart pointers
+- Projeto: Sistema de cadastro de clientes usando std::vector
+
+Semana 8 - Projeto Final e Preparacao para Entrevistas
+- Escolha de projeto final (Agenda, Estoque, Caixa Eletronico)
+- Documentacao do codigo (README.md)
+- Git Flow basico
+- Simulacao de perguntas de entrevista para Junior
